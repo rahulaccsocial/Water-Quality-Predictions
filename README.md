@@ -1,4 +1,4 @@
-🌊 Water Quality Predictions
+# 🌊 Water Quality Predictions
 🚀 Overview
 This project predicts water potability using machine learning, aiming to support public health efforts by classifying water as safe or unsafe to drink. Using physicochemical attributes (e.g., pH, hardness, chloramines, turbidity), models determine whether water meets drinking standards.
 
