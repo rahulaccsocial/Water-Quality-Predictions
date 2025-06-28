@@ -1,2 +1,7 @@
-# Week-1
-A machine learning-based project to predict the potability of water using chemical and physical attributes, developed.
+Water Quality Predictions
+Goal: Use MultiOutput models to determine water potability and quality indicators.
+Contents:
+Step-by-step weekly work
+Water quality datasets
+Model Deployment
+
